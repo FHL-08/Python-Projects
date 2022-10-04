@@ -2,7 +2,7 @@
 """
 Created on Fri Jul 30 16:16:45 2021
 
-@author: HP
+@author: Faisal Lawan
 """
 
 class Person(object):     
